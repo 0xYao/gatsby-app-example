@@ -145,7 +145,7 @@ const IndexPage = () => {
       <h1 style={headingStyles}>
         Congratulations
         <br />
-        <span style={headingAccentStyles}>— you just made a Gatsby site! </span>
+        <span style={headingAccentStyles}>— you just made a Gatsby App! </span>
         🎉🎉🎉
       </h1>
       <p style={paragraphStyles}>
