@@ -13,7 +13,8 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "postbuild": "mkdir -p build && mv public build/gatsby-frontend"
   },
   "dependencies": {
     "gatsby": "^4.15.2",
