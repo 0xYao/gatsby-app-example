@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby TypeScript template
+  Gatsby TypeScript starter
 </h1>
 
 ## 🚀 Quick start
